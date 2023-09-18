@@ -1,6 +1,6 @@
 #include "main.h"
 
-/*
+/**
  * *_strcpy - takes a pointer to an int parameter and update its value to 98
  *
  * @dest: int parameter
