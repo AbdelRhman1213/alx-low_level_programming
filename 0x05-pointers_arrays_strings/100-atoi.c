@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * _atoi - takes a pointer to an int parameter and update its value to 98
+ * _atoi - ter and update its value chek the sign of num
  *
  * @s: int parameter
  *
- * return: int value
+ * Return: int value
  */
 
 int _atoi(char *s)
