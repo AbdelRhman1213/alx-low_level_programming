@@ -6,6 +6,7 @@
  * @dest: first char
  * @src: second char
  * @n: inter var
+ *
  * Return: char
  */
 
