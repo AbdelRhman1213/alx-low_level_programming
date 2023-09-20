@@ -16,7 +16,7 @@ char *_strcat(char *dest, char *src)
 	c = 0;
 
 
-	while (dest[5])
+	while (dest[c])
 		c++;
 
 	while (src[c2])
