@@ -1,10 +1,9 @@
 #include "main.h"
 
 /**
- * _strcat - fumction that concatunate two strings
+ * *leet - fumction that concatunate two strings
  *
- * @dest: first char
- * @src: second char
+ * @c: first char
  *
  * Return: char
  */
@@ -18,9 +17,9 @@ char *leet(char *c)
 
 	while (*c)
 	{
-		for (i = 0; i <sizeof(key)/ sizeof(char); i++)
+		for (i = 0; i < sizeof(key) / sizeof(char); i++)
 		{
-			if(*c == key[i] || *c == key[i] + 32)
+			if (*c == key[i] || *c == key[i] + 32)
 			{
 				*c = 48 + v[i];
 			}
