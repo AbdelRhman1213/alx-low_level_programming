@@ -5,7 +5,7 @@
  * print_diagsums - fumction that concatunate two strings
  *
  * @size: first char
- * @a: second char 
+ * @a: second char
  *
  * Return: char
  */
