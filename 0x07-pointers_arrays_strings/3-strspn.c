@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _strpbrk - fumction that concatunate two strings
+ * _strspn - fumction that concatunate two strings
  *
  * @s: first char
  * @accept: second char
@@ -9,7 +9,7 @@
  * Return: char
  */
 
-char *_strpbrk(char *s, char *accept)
+char *_strspn(char *s, char *accept)
 {
 	unsigned int i, j;
 
