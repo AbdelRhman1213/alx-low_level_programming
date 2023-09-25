@@ -4,7 +4,6 @@
  * print_chessboard - fumction that concatunate two strings
  *
  * @a: first char
- * 
  *
  * Return: char
  */
