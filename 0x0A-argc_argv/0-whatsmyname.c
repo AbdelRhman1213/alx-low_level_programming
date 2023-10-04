@@ -11,7 +11,7 @@
 int main(int argc, char const *argv[])
 {
 	(void)argc;
-	ptintf("%s\n", argv[0]);
+	ptrintf("%s\n", argv[0]);
 
 	return (0);
 }
